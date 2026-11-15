@@ -1,0 +1,24 @@
+product_name,brand,category,price,stock
+iPhone 16,Apple,Electronics,79999,250
+iPhone 16 Pro,Apple,Electronics,119999,180
+Samsung Galaxy S25,Samsung,Electronics,74999,300
+Samsung Galaxy S25 Ultra,Samsung,Electronics,124999,150
+OnePlus 13,OnePlus,Electronics,69999,280
+Google Pixel 10,Google,Electronics,84999,120
+MacBook Air M4,Apple,Electronics,109999,90
+Dell Inspiron 15,Dell,Electronics,58999,150
+HP Pavilion,HP,Electronics,64999,140
+Lenovo Legion 5,Lenovo,Electronics,99999,80
+Boat Rockerz 450,Boat,Electronics,1499,600
+Sony WH-1000XM5,Sony,Electronics,24999,150
+LG OLED 55 TV,LG,Electronics,109999,40
+Nike Air Max,Nike,Fashion,6999,250
+Adidas Ultraboost,Adidas,Fashion,9999,180
+Puma Running Shoes,Puma,Fashion,4999,220
+Levi's Jeans,Levi's,Fashion,2999,350
+Allen Solly Shirt,Allen Solly,Fashion,1999,420
+Basmati Rice 5kg,India Gate,Grocery,699,1000
+Aashirvaad Atta 10kg,Aashirvaad,Grocery,599,900
+Amul Butter,Amul,Grocery,249,1200
+Tata Salt,Tata,Grocery,30,2500
+Fortune Sunflower Oil,Fortune,Grocery,189,800
